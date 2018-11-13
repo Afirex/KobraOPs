@@ -1,0 +1,3 @@
+@echo
+java trail
+pause

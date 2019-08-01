@@ -8,6 +8,6 @@ it can encrypt image and Textual data ,
 NEW -> stegnography module is available now but only as premium service(for some reasons),
 
 To run this program click on ->  Play.vbs ||
-SourceCode -> AVAILABLE ON SourceCode folder above ||
+SourceCode -> AVAILABLE ON SourceCode folder above(only basics classes not the Cipher Algorithm) || 
 MUnit-> Its an Assest folder
 
